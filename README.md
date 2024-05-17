@@ -22,6 +22,7 @@ Step 4 :
 Step 5 :
 	click a local host link on terminal 
 	and then open your default browser which is hosting
+ 
 Step 6 :
 	Before upload a image you should create a folder name Predict in C disk. after choose the upload image and paste in the predict folder
 
